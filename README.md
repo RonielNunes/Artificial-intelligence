@@ -1,5 +1,3 @@
-# Artificial-intelligence
-
 # Repositório de Estudo e Projetos de Machine Learning e Deep Learning
 
 Bem-vindo ao meu repositório dedicado ao estudo e projetos relacionados a Machine Learning e Deep Learning. Aqui você encontrará uma coleção de projetos práticos, tutoriais e recursos de aprendizado que podem ser úteis para quem está explorando esse fascinante campo da ciência de dados.

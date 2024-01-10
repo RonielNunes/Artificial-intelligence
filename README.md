@@ -4,9 +4,9 @@ Bem-vindo ao meu repositório dedicado ao estudo e projetos relacionados a Machi
 
 ## Projetos
 
-1. [Projeto 1 - Nome do Projeto](link_do_projeto1)
-   - Breve descrição ou propósito do projeto.
-   - Tecnologias/Frameworks utilizados.
+1. [Predicting numbers using images](https://github.com/RonielNunes/Predicting-numbers-using-images)
+   - Arquitetura simples de NN para um problema de classificação usando o conjunto de dados MNIST.
+   - Linguagem Python/Jupyter notebook.
 
 2. [Projeto 2 - Nome do Projeto](link_do_projeto2)
    - Breve descrição ou propósito do projeto.

@@ -8,8 +8,8 @@ Bem-vindo ao meu repositório dedicado ao estudo e projetos relacionados a Machi
    - Arquitetura simples de NN para um problema de classificação usando o conjunto de dados MNIST.
    - Linguagem Python/Jupyter notebook.
 
-2. [Projeto 2 - Nome do Projeto](link_do_projeto2)
-   - Breve descrição ou propósito do projeto.
+2. [neural network in language c](https://github.com/RonielNunes/neural-network-in-language-c)
+   - Rede neural implementada em C basendo em portas lógicas.
    - Tecnologias/Frameworks utilizados.
 
 ## Tutoriais
